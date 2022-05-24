@@ -1,0 +1,18 @@
+.teacher-review {
+    &__short {
+        color: var(--text_subhead);
+        margin-left: 0;
+        display: -webkit-box;
+        -webkit-line-clamp: 6;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+
+    &__full {
+        color: var(--text_subhead);
+        margin-left: 0;
+        display: -webkit-box;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+    }
+}

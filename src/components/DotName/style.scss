@@ -1,0 +1,29 @@
+.dot-name {
+    margin-right: 8px;
+
+    &__item {
+        border-radius: 50%;
+        width: 10px;
+        height: 10px;
+        background: gray;
+        margin-right: 12px;
+    }
+
+    &__dot {
+        height: 12px;
+        min-width: 12px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 10px;
+        line-height: normal;
+        box-sizing: border-box;
+        z-index: 1;
+        border-radius: 100%;
+        vertical-align: middle;
+    }
+
+    &__name {
+        margin-left: 4px;
+    }
+}

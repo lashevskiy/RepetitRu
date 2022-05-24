@@ -1,0 +1,12 @@
+.teachers-list-pagination {
+    display: flex;
+
+    &__button-forward {
+        width: 50%;
+        margin-left: 4px !important;
+    }
+    &__button-back {
+        width: 50%;
+        margin-right: 4px !important;
+    }
+}

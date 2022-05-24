@@ -1,0 +1,11 @@
+.teacher-card-actions {
+    &__button {
+        flex: 1;
+    }
+
+    &__icon {
+        align-items: center;
+        display: flex;
+        flex-direction: column;
+    }
+}
