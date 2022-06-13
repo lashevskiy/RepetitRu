@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/RepetitRu/static/css/main.5d8b81b4.chunk.css",
-    "main.js": "/RepetitRu/static/js/main.0f44cf28.chunk.js",
-    "runtime-main.js": "/RepetitRu/static/js/runtime-main.133af1e0.js",
-    "static/css/2.f53a4a22.chunk.css": "/RepetitRu/static/css/2.f53a4a22.chunk.css",
-    "static/js/2.4e595ef0.chunk.js": "/RepetitRu/static/js/2.4e595ef0.chunk.js",
-    "index.html": "/RepetitRu/index.html",
-    "precache-manifest.07ab67396b76734a97c0ecccba3f3d0f.js": "/RepetitRu/precache-manifest.07ab67396b76734a97c0ecccba3f3d0f.js",
-    "service-worker.js": "/RepetitRu/service-worker.js",
-    "static/js/2.4e595ef0.chunk.js.LICENSE.txt": "/RepetitRu/static/js/2.4e595ef0.chunk.js.LICENSE.txt"
+    "main.css": "./static/css/main.5d8b81b4.chunk.css",
+    "main.js": "./static/js/main.0f44cf28.chunk.js",
+    "runtime-main.js": "./static/js/runtime-main.133af1e0.js",
+    "static/css/2.f53a4a22.chunk.css": "./static/css/2.f53a4a22.chunk.css",
+    "static/js/2.4e595ef0.chunk.js": "./static/js/2.4e595ef0.chunk.js",
+    "index.html": "./index.html",
+    "precache-manifest.07ab67396b76734a97c0ecccba3f3d0f.js": "./precache-manifest.07ab67396b76734a97c0ecccba3f3d0f.js",
+    "service-worker.js": "./service-worker.js",
+    "static/js/2.4e595ef0.chunk.js.LICENSE.txt": "./static/js/2.4e595ef0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.133af1e0.js",
